@@ -13,3 +13,4 @@ Work in progress..
 - auto sleep 
 - restart
 - camera led state on remote
+- SSID discovery 

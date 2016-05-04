@@ -1,4 +1,4 @@
-# SJ4000-WIFI-button
+# SJ4000-WIFI-remote
 Arduino sketch for esp8266 esp01 working on a 3.7v 800mAh LIPO battery
 
 Work in progress..

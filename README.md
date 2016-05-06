@@ -1,3 +1,5 @@
+[![Analytics](https://ga-beacon.appspot.com/UA-77377175-2/readme)](https://github.com/LukevdPalen/SJCAM-WIFI-remote)
+
 # SJCAM-WIFI-remote
 Arduino sketch for esp8266 esp01 working on a 3.7v 800mAh LIPO battery
 

@@ -11,6 +11,7 @@ Work in progress..
 - Stop video
 - Toggle photo/video mode
 
+[DEMO](https://www.youtube.com/watch?v=BbjntvEiLL0)  
 ## Roadmap:
 - Auto sleep 
 - Restart

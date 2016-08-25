@@ -19,3 +19,9 @@ Work in progress..
 - Shopping list
 - PCB sketch
 - 3D Model case
+
+## Confirmed working on:  
+:heavy_check_mark: SJCAM Sj4000  
+:question: SJCAM Sj5000 WIFI  
+:question: SJCAM Sj5000+  
+:question:SJCAM Sj5000X Elite  

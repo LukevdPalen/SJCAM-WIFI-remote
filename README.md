@@ -21,7 +21,7 @@ Work in progress..
 - 3D Model case
 
 ## Confirmed working on:  
-:heavy_check_mark: SJCAM Sj4000  
-:question: SJCAM Sj5000 WIFI  
-:question: SJCAM Sj5000+  
-:question:SJCAM Sj5000X Elite  
+:white_check_mark: SJCAM Sj4000  
+:white_large_square: SJCAM Sj5000 WIFI  
+:white_large_square: SJCAM Sj5000+  
+:white_large_square: SJCAM Sj5000X Elite  
